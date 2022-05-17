@@ -2,4 +2,4 @@
 
 
 
-See more at [Tableau](https://public.tableau.com/app/profile/elif.akkas/viz/GlobalCovidVaccinationRatestest/Story1)
+See more at [Tableau](https://public.tableau.com/app/profile/elif.akkas/viz/GlobalCovidVaccinationRates/Story)
